@@ -1,0 +1,9 @@
+{
+    "enabled": false,
+    "mode": "dynamic",
+    "sensitivity": 2.0,
+    "idle_level": 0,
+    "hold_time_ms": 75,
+    "min_interval_ms": 55,
+    "autostart": false
+}
